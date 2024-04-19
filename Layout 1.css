@@ -1,0 +1,30 @@
+body{
+    background-color: white ;
+}
+
+div.tres {
+    width: 80px;
+    height: 50px;    
+}
+
+.container {
+    display: flex; /* Torna o container um flex container */
+    justify-content: space-around; /* Distribui os itens igualmente com espaçamento ao redor */
+    align-items: center; /* Centraliza os itens verticalmente */
+    /*height: 10px; /* Altura do container */
+    /*padding: 200px;*/
+    position: absolute; 
+    right: 19px;
+    top: 26%;
+}
+
+/*.louco{
+    background-color:rosybrown;
+    position:absolute;
+    display: inline-block;
+    margin-left: 40px;
+    margin-top: 55px;
+    width: 1655px;
+    height: 530px;
+    align-items: center;
+}

@@ -1,0 +1,91 @@
+body{
+    background-color: white ;
+}
+
+div.um{
+    background-color: black;
+    position:absolute;
+    display: inline-block;
+    margin-left: 10px;
+    margin-top: 30px;
+    width: 200px;
+    height: 150px;
+    align-items: center;
+}
+
+div.dois{
+    background-color: pink;
+    position:absolute;
+    display: inline-block;
+    margin-left: 10px;
+    margin-top: 180px;
+    width: 200px;
+    height: 350px;
+    align-items: center;
+}
+
+div.tres{
+    background-color: blue;
+    position:absolute;
+    display: inline-block;
+    margin-left: 230px;
+    margin-top: 180px;
+    width: 600px;
+    height: 350px;
+    align-items: center;
+}
+
+div.quatro{
+    background-color: greenyellow;
+    position:absolute;  
+    display: inline-block;
+    margin-left: 230px;
+    margin-top: 12px;
+    width: 400px;
+    height: 150px;
+    align-items: center;
+}
+
+div.cinco{
+    background-color: red;
+    position:absolute;  
+    display: inline-block;
+    margin-left: 650px;
+    margin-top: 12px;
+    width: 180px;
+    height: 150px;
+    align-items: center;
+}
+
+div.seis{
+    background-color: yellow;
+    position:absolute;  
+    display: inline-block;
+    margin-left: 850px;
+    margin-top: 12px;
+    width: 120px;
+    height: 520px;
+    align-items: center;
+}
+
+div.sete{
+    background-color: brown;
+    position:absolute;  
+    display: inline-block;
+    margin-left: 990px;
+    margin-top: 12px;
+    width: 200px;
+    height: 520px;
+    align-items: center;
+}
+
+div.oito{
+    background-color: fuchsia;
+    position:absolute;  
+    display: inline-block;
+    margin-left: 1210px;
+    margin-top: 12px;
+    width: 50px;
+    height: 520px;
+    align-items: center;
+}
